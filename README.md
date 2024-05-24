@@ -10,5 +10,5 @@ This is my first more serious project so bare with me. It is a calculator app th
        c) "*" for multiplication
        d) "/" for division
        e) "^" for power
-       f) as many "(" (open parantesis) and ")" (closed parantesis) as the user wants
-  4) Parantesis within parantesis ARE allowed
+       f) as many "(" (open paranthesis) and ")" (closed paranthesis) as the user wants
+  4) Paranthesis within paranthesis ARE allowed
